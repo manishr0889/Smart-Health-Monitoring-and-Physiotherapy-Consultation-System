@@ -1,0 +1,2 @@
+# Smart-Health-Monitoring-and-Physiotherapy-Consultation-System
+This project presents a novel approach to patient health monitoring and physiotherapist  consultation by integrating the capabilities of the ESP8266 microcontroller and Artificial  Intelligence (AI). The proposed system aims to provide a cost-effective and accessible solution  for continuous health surveillance and remote physiotherapy guidance.
